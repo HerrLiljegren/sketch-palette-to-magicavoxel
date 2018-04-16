@@ -1,0 +1,23 @@
+{
+  "name": "sketch-palette-to-magicavoxel",
+  "version": "1.0.0",
+  "description": "Simple node-script to convert a Sketch JSON-palette to a MagicaVoxel palette.",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerrLiljegren/sketch-palette-to-magicavoxel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerrLiljegren/sketch-palette-to-magicavoxel/issues"
+  },
+  "homepage": "https://github.com/HerrLiljegren/sketch-palette-to-magicavoxel#readme"
+}
